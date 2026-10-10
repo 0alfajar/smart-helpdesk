@@ -61,5 +61,15 @@ demo of the integration pattern, not a production triage model.
 
 ## Screenshots
 
-_Add screenshots and a short demo GIF here (catalog form, resulting Incident with work notes,
-fallback test)._
+Blurred for privacy (instance name and personal email hidden).
+
+- ML path: `docs/01-incident-ml-api.png` (category network, source ml-api)
+- Fallback path: `docs/02-incident-fallback.png` (source keyword-fallback)
+- Flow notification: `docs/03-flow-outbox.png` (Outbound Outbox)
+- Validator: `docs/04-validator.png` (description <20 chars blocked)
+
+_Demo GIF/video: add link here (1-2 min end-to-end)._
+
+Not affiliated with ServiceNow. Personal learning project in a free PDI; synthetic data, small model, not production.
+
+Built with AI assistance (code review and debugging guidance); ServiceNow configuration, deployment, and testing performed by me in my own PDI.
